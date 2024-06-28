@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>a55.png</key>
+            <key>aa1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -19,7 +19,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>aa1.png</key>
+            <key>aa2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -34,7 +34,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>aa2.png</key>
+            <key>aa3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -49,7 +49,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>aa3.png</key>
+            <key>aa4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -64,7 +64,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>aa4.png</key>
+            <key>aa5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -979,7 +979,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>r11.png</key>
+            <key>rr1.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -994,7 +994,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>r22.png</key>
+            <key>rr2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1009,7 +1009,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>r55.png</key>
+            <key>rr3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1024,21 +1024,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>rr3.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{150,150}</string>
-                <key>spriteSourceSize</key>
-                <string>{150,150}</string>
-                <key>textureRect</key>
-                <string>{{450,1189},{150,150}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
             <key>rr4.png</key>
             <dict>
                 <key>aliases</key>
@@ -1050,7 +1035,22 @@
                 <key>spriteSourceSize</key>
                 <string>{104,150}</string>
                 <key>textureRect</key>
-                <string>{{600,1189},{104,150}}</string>
+                <string>{{450,1189},{104,150}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>rr5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{150,150}</string>
+                <key>spriteSourceSize</key>
+                <string>{150,150}</string>
+                <key>textureRect</key>
+                <string>{{554,1189},{150,150}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1308,7 +1308,7 @@
             <key>size</key>
             <string>{1022,1939}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c4c358aa303f0131a5e581655e7a1948:bc2e0fe19518ae233528e18a214ea82a:7d87dd470a21d2a682c01fa804109ec8$</string>
+            <string>$TexturePacker:SmartUpdate:aabe91649c9200e2714c099bb6016dd1:1c635bd24dba0a80b238a028b435df78:7d87dd470a21d2a682c01fa804109ec8$</string>
             <key>textureFileName</key>
             <string>demirciOne.png</string>
         </dict>
