@@ -109,7 +109,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>71.png</key>
+            <key>71_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -198,7 +198,7 @@
             <key>size</key>
             <string>{2000,1500}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e19d9113c5fd25711f7dcc84619ed6e9:421ff0a88552687e3c2d53c457740175:be887d7c2302a2901de8f164ec1e897d$</string>
+            <string>$TexturePacker:SmartUpdate:1bb568cb2dd5e88667e536114051d9ea:421ff0a88552687e3c2d53c457740175:be887d7c2302a2901de8f164ec1e897d$</string>
             <key>textureFileName</key>
             <string>heroFiveBack.png</string>
         </dict>
