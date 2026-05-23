@@ -19,7 +19,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>66.png</key>
+            <key>66_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -34,7 +34,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>66_t.png</key>
+            <key>67_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -49,7 +49,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>67_t.png</key>
+            <key>68_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -64,7 +64,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>68_t.png</key>
+            <key>69_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -79,7 +79,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>69_t.png</key>
+            <key>70_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -94,7 +94,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>70_t.png</key>
+            <key>71_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -109,7 +109,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>71_t.png</key>
+            <key>72_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +124,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>72_t.png</key>
+            <key>73_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -139,7 +139,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>73_t.png</key>
+            <key>74_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -154,7 +154,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>74_t.png</key>
+            <key>75_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -169,7 +169,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>99_t.png</key>
+            <key>76_t.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -181,6 +181,21 @@
                 <string>{500,500}</string>
                 <key>textureRect</key>
                 <string>{{1500,1000},{500,500}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>99_t.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{500,500}</string>
+                <key>spriteSourceSize</key>
+                <string>{500,500}</string>
+                <key>textureRect</key>
+                <string>{{0,1500},{500,500}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -196,9 +211,9 @@
             <key>realTextureFileName</key>
             <string>heroFiveBack.png</string>
             <key>size</key>
-            <string>{2000,1500}</string>
+            <string>{2000,2000}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1bb568cb2dd5e88667e536114051d9ea:421ff0a88552687e3c2d53c457740175:be887d7c2302a2901de8f164ec1e897d$</string>
+            <string>$TexturePacker:SmartUpdate:99efe8e9624c64a90860120b1122cb7e:232c4895292838c9fdb233df8e37204d:be887d7c2302a2901de8f164ec1e897d$</string>
             <key>textureFileName</key>
             <string>heroFiveBack.png</string>
         </dict>
