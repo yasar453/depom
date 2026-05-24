@@ -260,7 +260,7 @@
             <key>smartupdate</key>
             <string>$TexturePacker:SmartUpdate:17fab682d275fac03c877ff37187c02d:27bd018c073b3fa82a93b9c71e843b45:cc9d3bc65f7b3e0477b836d77b9a671e$</string>
             <key>textureFileName</key>
-            <string>heroBirHero..png</string>
+            <string>heroBirHero.png</string>
         </dict>
     </dict>
 </plist>
