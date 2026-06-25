@@ -371,11 +371,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{300,300}</string>
+                <string>{330,330}</string>
                 <key>spriteSourceSize</key>
-                <string>{300,300}</string>
+                <string>{330,330}</string>
                 <key>textureRect</key>
-                <string>{{990,0},{300,300}}</string>
+                <string>{{990,0},{330,330}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -390,7 +390,7 @@
                 <key>spriteSourceSize</key>
                 <string>{330,330}</string>
                 <key>textureRect</key>
-                <string>{{1290,0},{330,330}}</string>
+                <string>{{1320,0},{330,330}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -405,7 +405,7 @@
                 <key>spriteSourceSize</key>
                 <string>{330,330}</string>
                 <key>textureRect</key>
-                <string>{{1620,0},{330,330}}</string>
+                <string>{{1650,0},{330,330}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -468,7 +468,7 @@
             <key>size</key>
             <string>{1980,1650}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:b8c318b0368663c2f57b3ee31ee836f0:ca2c5297c22ddadcd10b381ae0c6b64c:29fbfeecb47bcf6ea7ddaf81c723bd9b$</string>
+            <string>$TexturePacker:SmartUpdate:6c80bd2f546fbfe0b1694f41ab346800:6340b598852c150928cee33edfb4c64b:29fbfeecb47bcf6ea7ddaf81c723bd9b$</string>
             <key>textureFileName</key>
             <string>chatEmoji.png</string>
         </dict>
